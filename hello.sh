@@ -1,2 +1,1 @@
 ekleme yapıyom
-ekleme yapıyom
