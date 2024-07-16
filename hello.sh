@@ -1,1 +1,1 @@
-eklemee
+echo "helllo veorlllls"
