@@ -1,1 +1,1 @@
-echo "helllo veorlllls"
+ekleme yapıyom
